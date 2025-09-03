@@ -1,0 +1,3 @@
+[submodule "external/pdb2graph"]
+	path = external/pdb2graph
+	url = git@github.com:davidfoutch/pdb2graph.git
