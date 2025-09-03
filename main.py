@@ -29,13 +29,6 @@ from ui_layout import Ui_MainWindow
 from logic import ProteinAnalyzerLogic
 
 class ProteinAnalyzerPlugin(QDialog):
-#     def __init__(self):
-#         super().__init__()
-#         self.setWindowTitle("PDB2Graph")
-#         self.resize(600, 400)
-#         self.ui = Ui_MainWindow()
-#         self.ui.setupUi(self)
-#         self.logic = ProteinAnalyzerLogic(self.ui)
 	def __init__(self):
 		super().__init__()
 		self.setWindowTitle("PDB2Graph")
